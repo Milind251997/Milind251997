@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Milind251997, I'm a Mechanical Engineer who is passionate about Machine learning & Artificial Inteligence, solving problems, automating stuff, and building software.
+- 👋 Hi, I’m @Milind251997, I'm a Mechanical Engineer who is passionate about Data Science, Machine learning & Artificial Inteligence, solving problems, automating stuff, and building software.
 - 👀 Learning Machine Learning & AI using Python.
 - 🌱 I’m currently a Data Science learner and practitioner.
 - 💞️ I’m looking for a Data Science Job/Internship.
